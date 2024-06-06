@@ -155,6 +155,9 @@ void KeyReleased(int scancode);
 #define KEY_LCTRL       0x1D
 #define KEY_RCTRL       0x9D
 
+#define KEY_LGUI        0xDB
+#define KEY_RGUI        0xDC
+
 #define KEY_F1          0x3B
 #define KEY_F2          0x3C
 #define KEY_F3          0x3D
